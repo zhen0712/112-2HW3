@@ -1,0 +1,208 @@
+<mxfile host="65bd71144e">
+    <diagram id="YAVwA41uc8A34A5qYizZ" name="第1頁">
+        <mxGraphModel dx="1130" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="28" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=17;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="30" width="630" height="703" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="利害關係人" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="29">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="目標" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="29">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="47" width="630" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="警衛" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="32">
+                    <mxGeometry width="157" height="46" as="geometry">
+                        <mxRectangle width="157" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="收信件、保護社區" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="32">
+                    <mxGeometry x="157" width="473" height="46" as="geometry">
+                        <mxRectangle width="473" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="93" width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="住戶" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="35">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="簽收信件，綁定APP，住在安全場所" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="35">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="140" width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="委員" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="38">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="管理社區事物，新增、修改與刪除公告欄，管理住戶相關資料" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="38">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="187" width="630" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="APP開發員" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="41">
+                    <mxGeometry width="157" height="46" as="geometry">
+                        <mxRectangle width="157" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="定期更新APP出現的BUG，系統測試，開發新產品" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="41">
+                    <mxGeometry x="157" width="473" height="46" as="geometry">
+                        <mxRectangle width="473" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="233" width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="郵差" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="44">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="收集信件，處理信件，配送信件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="44">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="280" width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="(B)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="47">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="47">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="327" width="630" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="事件名稱" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="50">
+                    <mxGeometry width="157" height="46" as="geometry">
+                        <mxRectangle width="157" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="使用案例名稱" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="50">
+                    <mxGeometry x="157" width="473" height="46" as="geometry">
+                        <mxRectangle width="473" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="373" width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="建立住戶訊息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="53">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="住戶基本資料" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="53">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="420" width="630" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="郵差送達信件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="56">
+                    <mxGeometry width="157" height="50" as="geometry">
+                        <mxRectangle width="157" height="50" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="簽收信件作業" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="56">
+                    <mxGeometry x="157" width="473" height="50" as="geometry">
+                        <mxRectangle width="473" height="50" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="470" width="630" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="簽收信件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="59">
+                    <mxGeometry width="157" height="46" as="geometry">
+                        <mxRectangle width="157" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="61" value="住戶認領信件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="59">
+                    <mxGeometry x="157" width="473" height="46" as="geometry">
+                        <mxRectangle width="473" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="516" width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="APP綁定" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="62">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="住戶協助管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="62">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="563" width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="新增布告欄" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="65">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="增加公告欄基本資訊" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="65">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="68" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="610" width="630" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="查詢信件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="68">
+                    <mxGeometry width="157" height="46" as="geometry">
+                        <mxRectangle width="157" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="70" value="信件管理作業" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="68">
+                    <mxGeometry x="157" width="473" height="46" as="geometry">
+                        <mxRectangle width="473" height="46" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=17;" vertex="1" parent="28">
+                    <mxGeometry y="656" width="630" height="47" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="測掉過時公告欄項目" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="71">
+                    <mxGeometry width="157" height="47" as="geometry">
+                        <mxRectangle width="157" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" value="刪除公告欄過時資訊" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontColor=#000000;fontSize=17;" vertex="1" parent="71">
+                    <mxGeometry x="157" width="473" height="47" as="geometry">
+                        <mxRectangle width="473" height="47" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
